@@ -21,9 +21,10 @@ body {
 
 img {
   width: 100%;
-  padding: 2em;
-  display: block;
-  text-align: center;
+  padding: 1em;
+  max-width: 25em;
+  display: inline;
+  vertical-align: middle;
 }
 
 h2 {
@@ -55,4 +56,9 @@ h2 {
   color: #666;
   border-color: #eee9de;
   border: 3px solid #333;
+}
+
+a:hover {
+  color: #fff;
+  background-color: #333;
 }
