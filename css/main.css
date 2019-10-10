@@ -20,10 +20,10 @@ body {
 }
 
 img {
-  width: 25em;
+  width: 50em;
   padding: 2em;
-  display: inline-block;
-  vertical-align: middle;
+  display: block;
+  text-align: center;
 }
 
 h2 {
@@ -47,7 +47,7 @@ h2 {
   max-width: 25em;
 }
 
-.main button {
+.btn {
   border-radius: 6px;
   padding: 1em;
   text-decoration: none;
