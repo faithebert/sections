@@ -23,7 +23,7 @@ img {
   display: inline-block;
 }
 
-h1 {
+h2 {
   display: inline-block;
   color: #333;
   font-weight: bold;
@@ -46,7 +46,6 @@ p {
 }
 
 a {
-  color:
   display: inline-block;
   border-radius: 4px;
   border: 2px solid #333;
