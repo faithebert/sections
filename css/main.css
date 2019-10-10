@@ -17,14 +17,17 @@ section {
 
 body {
   margin: 0;
+  vertical-align: middle;
+  text-align: center;
 }
 
 img {
   width: 100%;
   padding: 1em;
   max-width: 25em;
-  display: inline;
+  display: inline-block;
   vertical-align: middle;
+  margin: auto;
 }
 
 h2 {
@@ -40,6 +43,7 @@ h2 {
   text-align: left;
   padding: .4em .75em .5em;
   margin: 1.5rem;
+
 }
 
 .main p {
