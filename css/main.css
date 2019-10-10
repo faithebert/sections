@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   line-height: 1.5;
   background-color: #eee9de;
 }
@@ -11,16 +11,14 @@ html {
 
 body {
   display: inline;
+  margin: 1.5em;
 }
 
 img {
   width: 100%;
-  padding: 1em;
-}
-
-.image {
   padding: .4em .75em .5em;
   display: inline-block;
+  vertical-align: middle;
 }
 
 h2 {
@@ -33,11 +31,11 @@ h2 {
 .main {
   display: inline-block;
   max-width: 25em;
-  margin: 1.5rem 0;
 }
 
 .body {
   display: inline;
+  text-align: left;
 }
 
 p {
@@ -52,4 +50,5 @@ a {
   text-decoration: none;
   color: #666;
   padding: 1em;
+  text-align: center;
 }
