@@ -11,14 +11,13 @@ html {
 
 body {
   margin: 0;
-  display: inline;
+  display: inline-block;
 }
 
 img {
   width: 100%;
   padding: .4em .75em .5em;
   display: block;
-  vertical-align: middle;
 }
 
 h2 {
