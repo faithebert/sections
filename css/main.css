@@ -9,28 +9,47 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  display: inline;
+}
+
+img {
+  width: 100%;
+}
+
 .image {
-  display: inline-block;
   padding: .4em .75em .5em;
+  display: inline-block;
 }
 
 h1 {
+  display: inline-block;
   color: #333;
   font-weight: bold;
+  margin: 0;
 }
 
 .main {
-  padding: 2em;
+  display: inline-block;
   max-width: 25em;
   margin: 1.5rem;
 }
 
 .body {
-  color: #666;
+  display: inline;
+}
+
+p {
+  display: inline-block;
+  padding-bottom: 2em;
 }
 
 a {
+  color:
+  display: inline-block;
+  border-radius: 4px;
+  border: 2px solid #333;
+  text-decoration: none;
+  color: #666;
   padding: 1em;
-  border-radius: 3px;
-  border-color: #333;
 }
