@@ -20,7 +20,7 @@ body {
 }
 
 img {
-  width: 0;
+  width: 25em;
   padding: 2em;
   display: inline-block;
   vertical-align: middle;
@@ -47,11 +47,12 @@ h2 {
   max-width: 25em;
 }
 
-.main a {
-  border: 3px solid #333;
+.main button {
   border-radius: 6px;
   padding: 1em;
   text-decoration: none;
   text-align: center;
   color: #666;
+  border-color: #eee9de;
+  border: 3px solid #333;
 }
