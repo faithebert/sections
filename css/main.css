@@ -18,6 +18,7 @@ img {
   width: 100%;
   padding: .4em .75em .5em;
   display: block;
+  vertical-align: middle;
 }
 
 h2 {
@@ -37,12 +38,12 @@ h2 {
   text-align: left;
 }
 
-p {
+.body p {
   display: inline-block;
   padding-bottom: 2em;
 }
 
-a {
+.body a {
   display: inline-block;
   border-radius: 4px;
   border: 2px solid #333;
