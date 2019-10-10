@@ -10,12 +10,14 @@ html {
 }
 
 body {
+  margin: 0;
   display: inline;
 }
 
 img {
+  width: 100%;
   padding: .4em .75em .5em;
-  display: inline-block;
+  display: block;
   vertical-align: middle;
 }
 
@@ -34,7 +36,6 @@ h2 {
 .body {
   display: inline;
   text-align: left;
-  margin: 1.5rem;
 }
 
 p {
