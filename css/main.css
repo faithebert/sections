@@ -17,7 +17,7 @@ body {
 img {
   width: 100%;
   padding: .4em .75em .5em;
-  display: block;
+  display: inline-block;
   vertical-align: middle;
 }
 
