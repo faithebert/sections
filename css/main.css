@@ -2,6 +2,7 @@ html {
   box-sizing: border-box;
   font-family: Lato, sans-serif;
   line-height: 1.5;
+  background-color: #eee9de;
 }
 
 *, *::before, *::after {
@@ -13,6 +14,23 @@ html {
   padding: .4em .75em .5em;
 }
 
+h1 {
+  color: #333;
+  font-weight: bold;
+}
+
 .main {
-  padding:
+  padding: 2em;
+  max-width: 25em;
+  margin: 1.5rem;
+}
+
+.body {
+  color: #666;
+}
+
+a {
+  padding: 1em;
+  border-radius: 3px;
+  border-color: #333;
 }
