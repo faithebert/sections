@@ -9,13 +9,10 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
-  display: inline;
-}
-
 section {
   text-align: center;
+  margin: 0;
+  display: inline;
 }
 
 img {
@@ -32,9 +29,10 @@ h2 {
 }
 
 .main {
+  vertical-align: middle;
   display: inline-block;
   text-align: left;
-  padding: .4em .75em .5em 0;
+  padding: .4em .75em .5em;
 }
 
 .main p {
