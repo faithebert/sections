@@ -10,25 +10,20 @@ html {
 }
 
 section {
-  text-align: center;
-  display: inline-block;
   margin-bottom: 1.5rem;
 }
 
 body {
   margin: 0;
-  text-align: center;
   color: #333;
 }
 
 img {
   width: 100%;
   padding-top: 3em;
-  max-width: 25em;
+  max-width: 25rem;
   display: inline-block;
-  margin: auto;
 }
-
 
 h2 {
   display: block;
@@ -45,10 +40,13 @@ h2 {
   margin: 1.5rem;
 }
 
-.main p {
+p, h2 {
   color: #333;
+}
+
+.main p {
   margin-bottom: 3rem;
-  max-width: 25em;
+  max-width: 23em;
 }
 
 .btn {
