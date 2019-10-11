@@ -24,12 +24,12 @@ body {
 
 img {
   width: 100%;
-  padding: 1em;
-  padding-top: 2em;
+  padding-top: 3em;
   max-width: 25em;
-  display: block;
+  display: inline-block;
   margin: auto;
 }
+
 
 h2 {
   display: block;
@@ -57,7 +57,7 @@ h2 {
   padding: 1em;
   text-decoration: none;
   text-align: center;
-  color: #333;
+  color: #666;
   border-color: #eee9de;
   border: 3px solid #333;
 }
