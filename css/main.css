@@ -25,8 +25,7 @@ img {
   width: 100%;
   padding: 1em;
   max-width: 25em;
-  display: inline-block;
-  vertical-align: middle;
+  display: block;
   margin: auto;
 }
 
@@ -43,7 +42,6 @@ h2 {
   text-align: left;
   padding: .4em .75em .5em;
   margin: 1.5rem;
-
 }
 
 .main p {
