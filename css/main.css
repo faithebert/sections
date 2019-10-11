@@ -19,11 +19,13 @@ body {
   margin: 0;
   vertical-align: middle;
   text-align: center;
+  color: #333;
 }
 
 img {
   width: 100%;
   padding: 1em;
+  padding-top: 2em;
   max-width: 25em;
   display: block;
   margin: auto;
@@ -55,7 +57,7 @@ h2 {
   padding: 1em;
   text-decoration: none;
   text-align: center;
-  color: #666;
+  color: #333;
   border-color: #eee9de;
   border: 3px solid #333;
 }
