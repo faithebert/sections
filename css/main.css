@@ -17,7 +17,6 @@ section {
 
 body {
   margin: 0;
-  vertical-align: middle;
   text-align: center;
   color: #333;
 }
@@ -39,8 +38,8 @@ h2 {
 }
 
 .main {
-  vertical-align: middle;
   display: inline-block;
+  vertical-align: middle;
   text-align: left;
   padding: .4em .75em .5em;
   margin: 1.5rem;
