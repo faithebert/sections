@@ -11,28 +11,31 @@ html {
 
 section {
   padding: 2em;
-  vertical-align: middle;
+  text-align: center;
 }
 
 .img {
   width: 100%;
   display: inline-block;
   padding: 4em .75em .5em;
-  max-width: 25rem;
+  margin: 1.5rem;
+  max-width: 25em;
+  min-width: 15em;
+
 }
 
 .main {
   display: inline-block;
   text-align: left;
-  padding: 1em;
-  max-width: 25rem;
+  padding: 0 2em;
+  max-width: 25em;
+  margin: 1.5rem;
 }
 
 h2 {
   display: block;
   color: #333;
   font-weight: bold;
-  margin-bottom: 1.5rem;
 }
 
 p {
@@ -49,7 +52,7 @@ p {
   color: #666;
   border-color: #eee9de;
   border: 3px solid #333;
-  max-width: 8rem;
+  max-width: 8em;
 }
 
 a:hover {
