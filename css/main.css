@@ -9,19 +9,22 @@ html {
   box-sizing: inherit;
 }
 
-section {
+body {
   padding: 2em;
   text-align: center;
 }
 
 .img {
-  width: 100%;
   display: inline-block;
   padding: 4em .75em .5em;
   margin: 1.5rem;
   max-width: 25em;
   min-width: 15em;
+}
 
+image {
+  width: 100%;
+  max-width: 25em;
 }
 
 .main {
