@@ -24,7 +24,6 @@ img {
   width: 100%;
   display: block;
   max-width: 25em;
-  vertical-align: middle;
   padding: 0;
 }
 
@@ -32,7 +31,6 @@ img {
   display: inline-block;
   text-align: left;
   max-width: 25em;
-  margin: 1.5rem;
   padding: .4em .75em .5em;
 }
 
@@ -50,11 +48,10 @@ p {
   display: block;
   border-radius: 6px;
   margin-top: 1.5rem;
-  padding: 1em;
+  padding: .4em .75em .5em;
   text-decoration: none;
-  vertical-align: middle;
   text-align: center;
-  color: #666;
+  color: #333;
   border-color: #eee9de;
   border: 3px solid #333;
   max-width: 8em;
