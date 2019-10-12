@@ -24,27 +24,24 @@ section {
   display: inline-block;
   vertical-align: middle;
   text-align: left;
-  padding: .4em .75em .5em;
-  margin: 1.5rem;
+  padding: 1em;
 }
-
 
 h2 {
   display: block;
   color: #333;
   font-weight: bold;
-}
-
-p, h2 {
-  color: #333;
+  margin-bottom: 1.5rem;
 }
 
 .main p {
-  margin-bottom: 3rem;
+  display: inline;
+  margin-bottom: 1.5rem;
   max-width: 23em;
 }
 
 .btn {
+  display: block;
   border-radius: 6px;
   padding: 1em;
   text-decoration: none;
