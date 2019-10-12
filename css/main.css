@@ -10,6 +10,7 @@ html {
 }
 
 body {
+  vertical-align: middle;
   text-align: center;
   margin: 0;
 }
@@ -36,7 +37,7 @@ img {
 
 h2 {
   display: block;
-  color: #333;
+  color: #666;
   font-weight: bold;
 }
 
