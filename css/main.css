@@ -11,7 +11,8 @@ html {
 
 body {
   padding: 2em;
-  text-align: center;
+  vertical-align: middle;
+  margin: 1.5rem;
 }
 
 .img {
