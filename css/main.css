@@ -10,26 +10,14 @@ html {
 }
 
 section {
-  margin-bottom: 1.5rem;
+  padding: 0 2em;
 }
 
-body {
-  margin: 0;
-  color: #333;
-}
-
-img {
-  width: 100%;
-  padding-top: 3em;
-  max-width: 25rem;
+.img {
   display: inline-block;
-}
-
-h2 {
-  display: block;
-  color: #333;
-  font-weight: bold;
-  margin: 0;
+  width: 100%;
+  padding: 4em .75em .5em;
+  max-width: 20rem;
 }
 
 .main {
@@ -38,6 +26,13 @@ h2 {
   text-align: left;
   padding: .4em .75em .5em;
   margin: 1.5rem;
+}
+
+
+h2 {
+  display: block;
+  color: #333;
+  font-weight: bold;
 }
 
 p, h2 {
