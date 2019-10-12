@@ -10,21 +10,22 @@ html {
 }
 
 section {
-  padding: 0 2em;
+  padding: 2em;
+  vertical-align: middle;
 }
 
 .img {
-  display: inline-block;
   width: 100%;
+  display: inline-block;
   padding: 4em .75em .5em;
-  max-width: 20rem;
+  max-width: 25rem;
 }
 
 .main {
   display: inline-block;
-  vertical-align: middle;
   text-align: left;
   padding: 1em;
+  max-width: 25rem;
 }
 
 h2 {
@@ -34,21 +35,21 @@ h2 {
   margin-bottom: 1.5rem;
 }
 
-.main p {
+p {
   display: inline;
-  margin-bottom: 1.5rem;
-  max-width: 23em;
 }
 
 .btn {
   display: block;
   border-radius: 6px;
+  margin-top: 1.5rem;
   padding: 1em;
   text-decoration: none;
   text-align: center;
   color: #666;
   border-color: #eee9de;
   border: 3px solid #333;
+  max-width: 8rem;
 }
 
 a:hover {
