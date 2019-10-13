@@ -25,14 +25,14 @@ img {
   width: 100%;
   display: block;
   max-width: 25em;
-  padding: 0em;
+  padding-top: 1em;
 }
 
 .main {
   display: inline-block;
   text-align: left;
   max-width: 25em;
-  padding: 1em;
+  padding-bottom: 1em;
   margin: 0;
 }
 
@@ -40,6 +40,7 @@ h2 {
   display: block;
   color: #333;
   font-weight: bold;
+  padding-top: 0;
 }
 
 p {
