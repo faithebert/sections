@@ -25,25 +25,24 @@ body {
 img {
   width: 100%;
   display: block;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .main {
   display: inline-block;
   text-align: left;
   max-width: 25em;
-  padding: 1.5em;
+  padding: 0 1em;
 }
 
 h2 {
   color: black;
   font-weight: bold;
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
 }
 
 p {
-  margin-bottom: 2rem;
-  color: #666;
+  margin-bottom: 2em;
 }
 
 .btn {
@@ -52,7 +51,7 @@ p {
   padding: .4em .75em .5em;
   text-decoration: none;
   text-align: center;
-  color: #333;
+  color: #666;
   font-weight: bold;
   border-color: #eee9de;
   border: 3px solid #333;
